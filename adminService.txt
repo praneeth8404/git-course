@@ -1,2 +1,2 @@
 add/Remove users
-change the roles
+change the roles and responsibities
